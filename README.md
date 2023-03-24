@@ -29,7 +29,7 @@ N/A
 
 ## Credits
 
-None at the moment, but as soon as there are any, they will be added to this section.
+* [Allen Cummins](https://github.com/Allen-EC)  
 
 ## License
 
