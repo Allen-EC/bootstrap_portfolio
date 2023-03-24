@@ -8,6 +8,10 @@ I will be adding to this page examples of the work that I have completed, with l
 
 This is an improvment over my original Portfolio page as this now uses **"Bootstrap"**
 
+The deployed application can be found on GitHub Pages at:
+ 
+ https://allen-ec.github.io/bootstrap_portfolio/
+
 ---
 
 ## List of sites
